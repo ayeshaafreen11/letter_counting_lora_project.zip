@@ -1,0 +1,14 @@
+[
+  {
+    "word": "banana",
+    "answer": "b:1,a:3,n:2"
+  },
+  {
+    "word": "committee",
+    "answer": "c:1,o:1,m:2,i:1,t:2,e:2"
+  },
+  {
+    "word": "mississippi",
+    "answer": "m:1,i:4,s:4,p:2"
+  }
+]
