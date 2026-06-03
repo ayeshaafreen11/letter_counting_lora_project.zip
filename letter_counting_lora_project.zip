@@ -1,0 +1,15 @@
+letter_counting_lora_project/
+│
+├── README.md
+├── requirements.txt
+├── train.py
+├── evaluate.py
+├── rewards.py
+├── dataset.json
+├── baseline_prompt.py
+├── training_logs/
+│   └── reward_history.csv
+├── outputs/
+│   └── lora_adapter/
+└── report/
+    └── project_report.md
